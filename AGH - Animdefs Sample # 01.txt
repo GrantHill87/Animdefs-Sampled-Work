@@ -1,0 +1,91 @@
+AGH - Animdefs Sample # 01
+
+//The following is a sample of my script I wrote for a coding language (Animdefs) developed by some members of an online community designed to expand upon the animated graphic coding platform used to define textures (flats and walls), for an old video game called, Doom (1993).
+//I utilized this language to define and write my own code for a custom game I've been developing, using a similar engine to one developed for this older game, since the source code for the original game was released long ago.
+//The scripts I've written are in addition to the pre-existing source code, but both work very well together, as I've had to constantly debug my own code blocks, and there are other developers who have worked to expand the capacity of this coding language.
+
+//Created by A. Grant Hill
+
+/*Title of my project is called, Doomed Legends, but everything that's been written in this sample is actually for a spin-off project of my main one....
+/*Anything that doesn't make sense to you, feel free to message me, or refer to online archives associated with this coding platform.
+/*A demo version of this lesser project will eventually be released for public access, detailing a brief description of what the project consists of, and what's needed to run it.
+
+Switch STEESW01
+On sound switches/GNUP01
+Pic STEESW02 tics 2
+
+Off Sound switches/OFFS01
+Pic STEESW01 tics 2
+
+Switch STEESW03
+On sound switches/GNDN01
+Pic STEESW04 tics 2
+
+Off Sound switches/OFFS01
+Pic STEESW03 tics 2
+
+Switch STEESW05
+On Sound switches/GNUP01
+Pic STEESW06 tics 2
+
+Off Sound switches/OFFS01
+Pic STEESW05 tics 2
+
+Switch STEESW07
+On sound switches/GNDN01
+Pic STEESW08 tics 2
+
+Off Sound switches/OFFS01
+Pic STEESW07 tics 2
+
+Texture WATE01
+Pic WATE01 Tics 4
+Pic WATE02 Tics 4
+Pic WATE03 Tics 4
+Pic WATE04 Tics 4
+
+Warp2 Texture WATE01
+Warp2 Texture WATE02
+Warp2 Texture WATE03
+Warp2 Texture WATE04
+
+Texture LAVA01
+Warp Texture LAVA01
+
+Texture FAN01
+Pic FAN01 Tics 2
+Pic FAN02 Tics 2
+Pic FAN03 Tics 2
+Pic FAN04 Tics 2
+
+Texture NUKE01
+Pic NUKE01 Tics 4
+Pic NUKE02 Tics 4
+Pic NUKE03 Tics 4
+Pic NUKE04 Tics 4
+
+Warp2 Texture NUKE01
+Warp2 Texture NUKE02
+Warp2 Texture NUKE03
+Warp2 Texture NUKE04
+
+Texture SLIM01
+Warp Texture SLIM01
+
+Texture GREL01
+Pic GREL01 Tics 2
+Pic GREL02 Tics 2
+Pic GREL03 Tics 2
+Pic GREL04 Tics 2
+
+Texture BLOO01
+Pic BLOO01 Tics 4
+Pic BLOO02 Tics 4
+Pic BLOO03 Tics 4
+Pic BLOO04 Tics 4
+
+Texture MUDD01
+Pic MUDD01 Tics 4
+Pic MUDD02 Tics 4
+Pic MUDD03 Tics 4
+Pic MUDD04 Tics 4
